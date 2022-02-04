@@ -1,1 +1,2 @@
-perl HawkDos.pl -dns www.exemple.net -timeout 10 -httpready -num 700
+đéo có code j ở đây cả
+no code
