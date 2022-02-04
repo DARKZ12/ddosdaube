@@ -1,0 +1,2 @@
+perl HawkDos.pl -dns www.example.net -timeout 10 -httpready -num 500
+
